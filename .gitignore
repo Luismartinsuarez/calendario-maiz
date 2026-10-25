@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de Excel / LibreOffice
+~$*
+.~*
+.~lock.*#
+
+# Versión antigua de variedades (no la usa la app)
+data/gdd_variedades2.xlsx
